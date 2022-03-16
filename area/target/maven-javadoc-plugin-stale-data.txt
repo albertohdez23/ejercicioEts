@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/meggaedrock/Escritorio/ejercicioEts/area/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'area 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/meggaedrock/Escritorio/ejercicioEts/area/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'area 1.0.0 API'
+es.iespuerto.area
+/home/meggaedrock/Escritorio/ejercicioEts/area/src/main/java = 1647450284663
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/overview-tree.html = 1647450495259
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/script.js = 1647450495327
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/allclasses.html = 1647450495311
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/help-doc.html = 1647450495319
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/deprecated-list.html = 1647450495307
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/allpackages-index.html = 1647450495299
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/element-list = 1647450495219
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/index-all.html = 1647450495291
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/package-search-index.js = 1647450495271
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/allclasses-index.html = 1647450495295
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/member-search-index.zip = 1647450495287
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/member-search-index.js = 1647450495287
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/stylesheet.css = 1647450495327
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/type-search-index.zip = 1647450495287
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/constant-values.html = 1647450495239
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/index.html = 1647450495311
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/type-search-index.js = 1647450495287
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/search.js = 1647450495331
+/home/meggaedrock/Escritorio/ejercicioEts/area/target/site/apidocs/package-search-index.zip = 1647450495287
